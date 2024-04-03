@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "api-joyfox-rifas",
+  "private_key_id": "a974594395bedd71700cfeb1682f83903ffc1a61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEqtXenh+UmMo8\nIAJT0pwjGLjacAZgpyIIZOHPnwV9MCFaNpAE9MKzH23YT0US91GM7tGauXLaNeoR\naG/kDiYAJ264gDhxv0rSA57z5e4qx1v0dyQF1SlCD4u1DeH/HGyWoRVk7C4SKdbm\n5bOAeAFhdekrO+I+CPKyrb62i4DuJfuifIlfYbcBh5ZTkM/sMa2I9xxkVfc52OB2\nyO28+2oKIPRM0CZ/Udp25fAXJGVsIGvFCYuKzqXjWR4JXdur7H0Gp38ktBq51440\nqGDQJiffT04l3nZBdb4dDg7zvYA+KVzHudmKqF9My41IgqHunRVMrc4E6XvvSZH6\nHeRe1MnvAgMBAAECggEAIwRcAkBbVSUDVUNJxs0IOgOL3nD14b3AhIgZ4NLqskig\nl6SBbjB6flRJRauPm/nnTlWzgn4kog/ZdnIHAi82uu5Ke5Vw92fdFZnJcpntFzbZ\n+6Q/CL7Uksubz4gCRl80Qnm6Cnc3GMrUVdZuaKB1dnn9I1KNTQhg1kmzXGNoeH6A\ne0loLEz1EqHQqLiB53ljSyP/ttDXu9ZSql1XXK6nPTgKvFJD1s4nOztMBwbvb3x2\nupB3qIR7J460gtGvYYT/i5jSmNJnH0fd8DRlMrwcgAyD0Af5OKNDFJvrtOu8o/u5\nGJRaFw3ljy5yRqaGOPL+6mvsNgDAFemyvCmCC5ZXWQKBgQD5yF4tp/DvQxHaLq03\nBaxp2j0uEZ5xkhlbMOBwmLrDbW8kirf2hSnDnaexZWcrDAji29RBYgGUAXEbLGof\nyG/J0o1OeQGIo/fUFjrLy8OpPHpuZM0UU2RYzsQzp0DdyIDpbOXXplRQMCFBgvlX\nLiJTVBm7idIPP7iRYGvW2iZxjQKBgQDJkANMTNxQftc+u2e9q3SvGoaIRPifl/OA\n9UMfZeRhHSNdtsvQ6o762L+4VgPnVDm10YKjzOA1F8SwUa6wbqgMi70I/eanX2lz\nsd6DM0KtwaIAc9PGFmyUBAE7vmdR7fuHpCicADDEvSUek4VeKDMnS69T7McKQVov\nkt4I7lmkawKBgQCq6EhYYPLgIzoR2aI3ZbBk9SirXu7Usqya0sSfBkGz+ir0C953\n1QGQkUzuen2u3Jsv7k47Nn3x8VKczzUF7jVfGKwLJ4y/G8I04cj1LMUCBRmYc2xH\nHhApG8Dvvt8JYWmjThmuBmbmPyhiFOXamvxtm7vHsDOEr4rwHdNrvPRU+QKBgCri\nsVDyqY2W70Uxqoj4igMXqbgktKGAOxcdGAL+MvFWuceetQ7mWTWWGHSoGHyHtx+w\nTBN969ZgEEFTn896O9cvhDD9lK3X5x/uoGFZ7r35jPZ7rntfGgsELx7/DAyqjfH2\nQ42tnLK/a75ttNqrwvaBa/R3VIIiFYY5wXQ1Am2xAoGAGsOOFrnMd3l4+8UrRHrS\nVAxJ28DDRnErh0f64yJWSiV8BPhZWOu6xKSrqebZVPRT9Jb5LVWEPgc/NDRoq7X0\n7/NbXM9irioWYFIuUs1J0jiw0U3dNACIn0+UwBpjs/6Oxdnr7tOGsv2pPOGfjLwT\n2LTZJF8k6ajJZFC4A4i1Ygg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gvmft@api-joyfox-rifas.iam.gserviceaccount.com",
+  "client_id": "114743259763779861144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gvmft%40api-joyfox-rifas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
